@@ -6,3 +6,4 @@ Example: User using chegg app and chrome on phone = 2 devices.
 5. The lifetime account means that the Chegg Study subscription will renew automatically without needing to pay more.
 6. If account is not working within warranty period, we will replace you with a new account.
 7. Replacement is only available within warranty period. Maximum 3 replacements per month and only if user follows TnC of not sharing a few user and provide question solving service to the others.
+8. RM85 is 3 months warranty, RM35 is 1 month warranty. That's the only difference.
